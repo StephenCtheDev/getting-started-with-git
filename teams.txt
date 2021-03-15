@@ -1,3 +1,6 @@
 Hopper Hawks
 The Lovelace Lynxs
 Turing's Tigers
+
+pushing = pushes to the remote repo
+pulling = pull down from the remote repo
